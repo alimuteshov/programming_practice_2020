@@ -1,2 +1,2 @@
 print("ok")
-print("not not ok")
+print("not")
