@@ -1,3 +1,3 @@
-print("ok")
+print("")
 print("not")
 print(" ")
